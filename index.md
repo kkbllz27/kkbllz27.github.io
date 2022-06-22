@@ -1,17 +1,6 @@
-Hello, I am the first edit. Woop Woop. 
-# This is a big header
-## This is a smaller header
-### Still pretty small
+# First test project 
 
-I can just write plain old text
-This is an ordered list of objects
-1. Thing 1
-2. Thing 2 
-3. Last thing
-4.
+Some words where I describe what I'm working on and why it's important, as why other people might be interested. Insert jokes here. 
 
-Unordered lists
-* Thing 1 
-* Thing 2 
-   * sublist
+![I love Jam]([[https://yandex.com/images/?redircnt=1655930734.1](https://www.today.com/recipes/berry-chia-jam-recipe-t189469](https://www.thekitchn.com/how-to-make-basic-fruit-jam-cooking-lessons-from-the-kitchn-193560)))
  
